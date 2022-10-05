@@ -1,1 +1,2 @@
-hello, i am with 3SRC1
+#!/bin/bash
+echo "hello from ESGI"
